@@ -45,4 +45,4 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/mast
 
 ## 分支修复内容
 
-**2022/5/20** 修复核显MiniDP无输出（需要接显示屏开机，内屏开机会黑屏，重新开合笔记本盖就可以点亮）OTA上12.4会黑屏（找不到原因）
+**2022/5/20** 修复核显MiniDP无输出（需要接显示屏开机，内屏开机会黑屏，重新开合笔记本盖就可以点亮）
